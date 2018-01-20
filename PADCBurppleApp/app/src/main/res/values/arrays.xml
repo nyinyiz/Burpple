@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tab_colors">
+        <item>@color/accent</item>
+        <item>@color/primary</item>
+        <item>@color/pure_white</item>
+        <item>@color/primary</item>
+        <item>@color/primary</item>
+    </string-array>
+</resources>
